@@ -51,3 +51,5 @@ while True :
         window.addch(tail[0],tail[1],' ')
 
     window.addch(snake[0][0],snake[0][1],curses.ACS_CKBOARD)
+
+#Try_it_in_terminal
